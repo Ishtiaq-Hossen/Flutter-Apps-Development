@@ -1,10 +1,11 @@
-# todo
+# todo_apps_assignment01
 
-A new Flutter project.
+- Creating Rounded Container
+- Showing bottom dialog on Floating action button click
 
-## Getting Started
+## Note:
+Instructor Ashif Mujtoba is the actual Owner of this Project,I just did my Assignment by using his template for this project
 
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
