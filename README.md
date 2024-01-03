@@ -1,5 +1,9 @@
-# Flutter-Apps-Development
-A to do application
+# Flutter-Apps-Development 
+# Independent University Bangladesh
+A to do application by Ishtiaq Hossen
+- Course CSE464 
+- Section 01
+- Instructor _Ashif Mujtoba_, _Sanzar Adnan Alam_
 
 Assignment1  | Assignment 2
 ------------- | -------------
